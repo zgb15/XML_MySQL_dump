@@ -1,0 +1,4 @@
+# XML_MySQL_dump [ Vídeo: /00PRUEBAS/prueba.mp4]
+Tool to dump data from an XML to a MySQL database (easily applicable to SQL Server, PHPMyAdmin...)
+- ENGLISH: The utilities of this tool are: connection with MySQL database, reset the database table without modifying its structure, dump the XML information to the database, perform searches in the database like the Googe search engine (no matter the order or spaces, etc., of the words entered in the search engine).
+- ESPAÑOL: Las utilidades de esta herramienta son: conexión con base de datos en MySQL, resetear la tabla de la base de datos sin modificar su estructura, volcar la información del XML a la base de datos, realizar búsquedas en la base de datos como el buscador de Googe (sin importar el orden ni los espacios, etc, de las palabras introducidas en el buscador.
