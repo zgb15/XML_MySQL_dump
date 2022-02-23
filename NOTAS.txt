@@ -1,0 +1,15 @@
+Hola Carlos! Unas breves aclaraciones sobre la práctica...
+
+Enlace al vídeo de pruebas:
+https://drive.google.com/file/d/17lBXrkeBC31lVB0OouwwNgwz3nnmBi_O/view?usp=sharing
+
+El vídeo de pruebas es una grabación de otro vídeo, solo que conmigo narrando. Se debe a que la práctica la hice con mi equipo del trabajo, y allí no podía grabarme hablando. Mi intención era editar el vídeo y grabarme hablando con el Premiere pero mi ordenador no parece querer tirarlo sin explotar en el intento... Lo digo por si ves que la calidad del vídeo es más baja de lo que debería, es por esto.
+
+He creado los métodos de conectar() y desconectar() FINAL por lo que nos contaste del tema de la seguridad de la BBDD. 
+
+En la carpeta del proyecto están los .csv y .sql que he guardado exportando la tabla de la base de datos desde MySQL, pero no sé si esto te servirá para importar la tabla. Por si no te sirve, la base de datos se llama ad2 y la tabla 'usuarios'. 
+
+Por lo demás creo que está todo explicado entre el vídeo y los comentarios del código. 
+Cualquier duda me dices. 
+
+Un saludo!

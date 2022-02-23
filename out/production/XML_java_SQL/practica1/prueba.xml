@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<usuarios>
+    <usuario id="1">
+        <nombre>Jose</nombre>
+        <dni>10067259L</dni>
+        <telefono1>736384827</telefono1>
+        <telefono2>888888888</telefono2>
+        <edad>25</edad>
+        <localidad>Madrid</localidad>
+    </usuario>
+    <usuario id="2">
+        <nombre>Zoe</nombre>
+        <dni>70067259J</dni>
+        <telefono1>636384827</telefono1>
+        <telefono2>000000000</telefono2>
+        <edad>19</edad>
+        <localidad>Madrid</localidad>
+    </usuario>
+    <usuario id="3">
+        <nombre>Maria</nombre>
+        <dni>65547238H</dni>
+        <telefono1>777777777</telefono1>
+        <telefono2>000000000</telefono2>
+        <edad>19</edad>
+        <localidad>Praga</localidad>
+    </usuario>
+    <usuario id="4">
+        <nombre>Laura</nombre>
+        <dni>80089275K</dni>
+        <telefono1>777666999</telefono1>
+        <telefono2>616616616</telefono2>
+        <edad>23</edad>
+        <localidad>París</localidad>
+    </usuario>
+    <usuario id="5">
+        <nombre>Carlos</nombre>
+        <dni>11111111L</dni>
+        <telefono1>999999999</telefono1>
+        <telefono2>123123123</telefono2>
+        <edad>18</edad>
+        <localidad>Londres</localidad>
+    </usuario>
+</usuarios>
